@@ -74,9 +74,3 @@
 
 40. Practical exercises at the end of each section to reinforce learning.
 
-### **[Optional Topics (Depending on Audience Interest and Time)](12_optional_topics.md)**
-
-- Git rebase: `git rebase`.
-- Git interactive rebase.
-- Git submodules.
-- Git bisect.
